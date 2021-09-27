@@ -1,0 +1,7 @@
+Board Thickness 1.6mm (.063”)
+Type = FR4
+Cooper thickness 1oz (1.4mil, 35um)
+Surface Finishing: Nicked or HASL
+Color: Red
+Silkscreen over solder mask
+Certificates: UL,ROHS,ISO9001,ISO14001
